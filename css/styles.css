@@ -16,8 +16,6 @@ body {
 
 .header {}
 
-.header-navigation {}
-
 .header-logo {
     color: #4D5AE5;
     font-family: "Raleway", sans-serif;
@@ -31,6 +29,8 @@ body {
 .header-logo span {
     color: #2E2F42;
 }
+
+.header-navigation {}
 
 .header-menu-list {}    
 
@@ -144,11 +144,11 @@ body {
     text-transform: capitalize;
 }
 
-.team-list {
-    background-color: #FFF;
-}
+.team-list {}
 
-.team-list-item {}
+.team-list-item {
+    background-color: #FFFFFF;
+}
 
 .team-list-img {}
 
@@ -215,7 +215,7 @@ body {
 
 .footer-logo {
     color: #4D5AE5;
-    font-family: "Raleway", san-serit; 
+    font-family: "Raleway", sans-serif; 
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
@@ -223,7 +223,7 @@ body {
     text-transform: uppercase;
 }
 
-.footer-logo span {
+.footer-logo-subcolor {
     color: #F4F4FD;
 }
 
