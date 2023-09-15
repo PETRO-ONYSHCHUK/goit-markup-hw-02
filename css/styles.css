@@ -16,6 +16,8 @@ body {
 
 .header {}
 
+.header-navigation {}
+
 .header-logo {
     color: #4D5AE5;
     font-family: "Raleway", sans-serif;
@@ -26,11 +28,9 @@ body {
     text-transform: uppercase;
 }
 
-.header-logo span {
+.header-logo-subcolor {
     color: #2E2F42;
 }
-
-.header-navigation {}
 
 .header-menu-list {}    
 
